@@ -1,4 +1,5 @@
-<template>   
+<template>
+  <section>
     <slot />
-
+  </section>
 </template>
